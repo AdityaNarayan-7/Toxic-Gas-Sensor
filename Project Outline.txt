@@ -1,0 +1,165 @@
+﻿Narayan 
+Project Outline
+Type: Concept Educational Design
+
+
+Purpose: This concept design is used for learning how to interface Arduino with safety measures in order to protect living organisms.
+
+
+Objective: To develop Harmful Gas Detector for the purpose of human safety 
+
+
+Platforms used: Arduino Uno R4, Arduino IDE, MQ-2 gas sensor, KiCAD
+
+
+Timeline: 14 Days
+
+
+Budget: 100 - 150 dollars if full kit is bought or 50 - 75 for just necessary materials.
+
+
+Possible extension: Integrate within actual pipes for testing, possibly hook up multiple sensors, and connect to wifi to upload to cloud data. Expand to possible air quality sensors as well to provide constant updated air quality data. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Project Plan
+1. Design Research 
+   1. MQ-2 Research
+   2. Arduino IDE Research
+   3. Phone service Integration Research
+      1. How to use Blynk
+2. Engineering 
+   1. Identify BOM
+      1. Class A:
+         1. Arduino
+         2. MQ-2
+         3. Arduino IDE (no cost)
+      2. Class B
+         1. Breadboard
+         2. Resistors
+         3. LED Display (possibly) 
+      3. Class C
+         1. Jumper wires
+
+
+3. Procurement -
+   1. Order materials and curate a budget
+      1. Materials Ordered
+         1. SunFounder full arduino Kit $95
+         2. Breadboard/jumper Cables 13$
+         3. MQ-2 Gas sensor $12
+4. Design 
+   1. Loop Design / Hookup table
+      1. KiCad
+   2. FlowChart for code 
+      1. Google Draw
+5. Execution
+   1. Programming 
+      1. Arduino IDE
+   2. Hardware Assembly
+   3. Finish Blynk Setup 
+6. Project Accuracy Testing
+   1. Acceptance Test Manual
+      1. Test constraints and define limits and affordances
+7. Close Out
+   1. Documentation 
+   2. Product closeout (for commercial)
+   3. Logistics ( For commercial)
+   4. Upload to GIT
+   5. Update resume / LinkedIn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Resource Plan
+1. Human Resources: 
+   1. Aditya Narayan - 
+      1. procurement
+      2. project manager
+      3. engineer
+2. Financial
+   1. Budget: $100 - $150
+3. Physical Resources
+   1. Equipment
+      1. Arduino
+      2. MQ-2 Gas sensor
+      3. Computer for integration
+      4. Work station
+   2. Testing Requirements
+      1. Clear air environment for calibration
+      2. Pipe containing natural gas for larger integration
+      3. Lighter for small scale testing. 
+   3. Technological Resources
+      1. Arduino IDE (Software platform) 
+      2. MQ-2 Library 
+      3. KiCAD (Hardware tables) 
+      4. Arduino Simulator (hardware conception) 
+
+
+
+
+Project Schedule 
+8.    Design Research  1/3/2025- 1/5/2025
+9.     Engineering        1/3/2025 - 1/5/2025
+10. Procurement  1/5/2025 - 1/7/2025
+11. Design                 1/5/25  - 1/6/2025
+12. Execution        1/6/25- 1/9/2025
+13. Project Accuracy Testing 1/11/2025 - 1/17/2025
+14. Close Out 1/18/2025
